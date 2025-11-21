@@ -1,0 +1,8 @@
+{
+  "plugins": [
+    {
+      "name": "ExamplePlugin",
+      "url": "https://raw.githubusercontent.com/YourUser/YourRepo/main/plugins/ExamplePlugin.lua"
+    }
+  ]
+}
